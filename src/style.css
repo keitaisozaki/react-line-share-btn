@@ -1,0 +1,11 @@
+.share-line-btn{
+  display: block;
+  text-align: center;
+}
+
+.share-icon{
+  display: block;
+  width:30px;
+  height:30px;
+  margin-right: 10px;
+}
