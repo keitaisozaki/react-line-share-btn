@@ -7,7 +7,7 @@ line share button for react
 ## usage
 `import ReactLineShareBtn from 'react-line-share-btn'`
 
-`<ReactLineShareBtn url="https//google.com" text="aaaaa" size="large"/>`
+`<ReactLineShareBtn url="https//google.com" text="share text" size="large"/>`
 
 ### props
 | name | type | option |
