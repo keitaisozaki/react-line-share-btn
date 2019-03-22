@@ -1,2 +1,17 @@
 # react-line-share-btn
 line share button for react
+
+## install
+`npm i react-line-share-btn`
+
+## usage
+`import ReactLineShareBtn from 'react-line-share-btn'`
+
+`<ReactLineShareBtn url="https//google.com" text="aaaaa" size="large"/>`
+
+### props
+| name | type | option |
+|:-----------|------------:|:------------:|
+| url       |    string     |     This     |
+| text     |      string |    column    |
+| size       |        srting |    icon or large default "icon"     |
