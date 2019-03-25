@@ -12,6 +12,6 @@ line share button for react
 ### props
 | name | type | option |
 |:-----------|------------:|:------------:|
-| url       |    string     |     This     |
-| text     |      string |    column    |
+| url       |    string     |          |
+| text     |      string |        |
 | size       |        srting |    icon or large default "icon"     |
